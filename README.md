@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Eduardo AKA @Skibadeejcl en Github,
+- 👋 Hola! mi nombre es Eduardo AKA @Skibadeejcl en Github,
       soy Ingeniero Civil Industrial de formación base.
       
 - 👀 Estoy interesado en lenguajes Python, SQL y pretendo seguir estudiando Lenguaje R, al corto o mediano plazo.
