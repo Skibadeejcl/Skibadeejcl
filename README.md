@@ -3,7 +3,7 @@
       
 - 👀 Estoy interesado en lenguajes Python, SQL y pretendo seguir estudiando Lenguaje R, al corto o mediano plazo.
 
-- 🌱 Actualmente acabo de terminar un intensivo, pero muy útil Bootcamp Full Stack Python en Edutecno de la mando de SENCE y 
+- 🌱 Actualmente acabo de terminar un intensivo, pero muy útil Bootcamp Full Stack Python en Edutecno de la mano de SENCE y 
       Talento Digital para Chile.
       
 - 💞️ Estoy buscando oportunidades de trabajo en áreas relacionada al desarrollo web y mi objetivo final, es trabajar en el área 
