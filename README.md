@@ -10,7 +10,7 @@
       de la ciencia de datos, si es que llego a obtener la suficiente experiencia.
       
 - 📫 Me puedes contactar a mi correo:
-      Eduado.castillo.lara@outlook.com
+      Eduardo.castillo.lara@outlook.com
 
 <!---
 Skibadeejcl/Skibadeejcl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
