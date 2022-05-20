@@ -7,7 +7,7 @@
       Talento Digital para Chile.
       
 - 💞️ Estoy buscando oportunidades de trabajo en áreas relacionada al desarrollo web y mi objetivo final, es trabajar en el área 
-      de la ciencia de datos, si es que llego a obtener la suficiente experiencia.
+      de la ciencia de datos, cuando obtenga la suficiente experiencia.
       
 - 📫 Me puedes contactar a mi correo:
       Eduardo.castillo.lara@outlook.com
